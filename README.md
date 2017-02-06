@@ -1,5 +1,5 @@
 # muabe2.github.io
 
 ```java
-System.out.println("hellow");
+System.out.println("hello");
 ```
